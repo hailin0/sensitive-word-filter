@@ -5,3 +5,7 @@
 
 1，使用方法，参考测试类
 com.hlin.sensitive.test.KWSeekerManageTest
+
+
+# jar包下载地址
+https://github.com/hailin0/sensitive-word-filter/tree/master/target/sensitive-word-filter-0.0.1-SNAPSHOT.jar
