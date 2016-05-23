@@ -1,5 +1,7 @@
 # sensitive-word-filter
 
 
-1，使用方法，参考测试类
+鏁忔劅璇嶅鐞嗗櫒鍣紝鏀寔杩斿洖鏁忔劅璇嶏紝楂樹寒鏁忔劅璇嶏紝鏇挎崲鏁忔劅璇嶇瓑鎿嶄綔
+
+1锛屼娇鐢ㄦ柟娉曪紝鍙傝�冩祴璇曠被
 com.hlin.sensitive.test.KWSeekerManageTest
