@@ -16,7 +16,7 @@ public class KWSeekerManage {
     /**
      * 敏感词模块. key为模块名，value为对应的敏感词搜索器
      */
-    private Map<String, KWSeeker> seekers = new ConcurrentHashMap<String, KWSeeker>();
+    protected Map<String, KWSeeker> seekers = new ConcurrentHashMap<String, KWSeeker>();
 
     /**
      * 初始化

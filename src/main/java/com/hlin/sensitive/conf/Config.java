@@ -84,6 +84,15 @@ public final class Config {
     }
 
     /**
+     * 获取全部配置数据
+     * 
+     * @return
+     */
+    public Map<String, String> getAll() {
+        return cacheConfig;
+    }
+
+    /**
      * 基于root根元素的配置获取.<br>
      * key格式：<br>
      * 如配置为:develop.img_upload_server_path 则key为：img_upload_server_path<br>

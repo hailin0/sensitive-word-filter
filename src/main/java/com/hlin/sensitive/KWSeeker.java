@@ -1,5 +1,6 @@
 package com.hlin.sensitive;
 
+import java.io.ObjectInputStream.GetField;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -218,5 +219,16 @@ public class KWSeeker {
             return len;
         }
     }
+
+    
+    /* (non-Javadoc)
+     * @see java.lang.Object#toString()
+     */
+    @Override
+    public String toString() {
+        return "KWSeeker [sensitiveWords=" + sensitiveWords + ", wordsTree=" + wordsTree
+                + ", wordLeastLen=" + wordLeastLen + "]";
+    }
+
 
 }
