@@ -80,8 +80,7 @@
 
 
 # 测试代码
-
-	com.hlin.sensitive.test.KWSeekerManageTest.java
+<a href="https://github.com/hailin0/sensitive-word-filter/blob/master/src/test/java/com/hlin/sensitive/test/KWSeekerManageTest.java">点击查看-com.hlin.sensitive.test.KWSeekerManageTest.java</a>
 
 
 
